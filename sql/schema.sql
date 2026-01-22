@@ -6,5 +6,6 @@ CREATE TABLE clientes (
  nombre VARCHAR(50),
  email VARCHAR(100)
 );
+
 INSERT INTO clientes(nombre, email)
 VALUES ('Ana Alonso', 'ana@prometeo.com');
